@@ -1,0 +1,15 @@
+{
+    "name": "root/test_smarty",
+    "autoload": {
+        "psr-4": {
+            "Root\\TestSmarty\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "EL ELAYADI",
+            "email": "m.elayadi@akdital.ma"
+        }
+    ],
+    "require": {}
+}
